@@ -1,0 +1,31 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "editor.wordWrap": "on",
+    "editor.detectIndentation": false,
+    "search.exclude": {
+      "**/.vscode": true,
+      "**/node_modules": true,
+      "**/dist": true,
+      "package-lock.json": true
+    },
+    "files.eol": "\n",
+    "html.format.wrapLineLength": 120,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+      }
+    },
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+  }
+}
