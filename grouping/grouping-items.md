@@ -1,6 +1,6 @@
 # Grouping items
 
-Items can be grouped by a field specified in `groupValueField` property. Use `groupTextField` property to scpecify group name.
+Items can be grouped by a field specified in `groupValueField` property. Use `groupTextField` property to specify group name.
 
 ## See also
 
