@@ -1,22 +1,9 @@
 # Grouping items
-## Demo
-  * [Grouping items](https://stackblitz.com/edit/ionic-selectable-grouping?file=app/pages/home/home.html)
 
-## Example
+Items can be grouped by a field specified in `groupValueField` property. Use `groupTextField` property to scpecify group name.
 
-View:
+## See also
 
-    <ion-item>
-      <ion-label>Port</ion-label>
-      <ionic-selectable
-        [(ngModel)]="port"
-        itemValueField="id"
-        itemTextField="name"
-        groupValueField="country.id"
-        groupTextField="country.name"
-        [items]="ports">
-        <ng-template ionicSelectableGroupTemplate let-group="group">
-          {{group.text}}
-        </ng-template>
-      </ionic-selectable>
-    </ion-item>
+# Grouping items
+* [Group template](http://localhost:3000/ionic-selectable/templates/group-template)
+* [Group end template](http://localhost:3000/ionic-selectable/templates/group-end-template)
