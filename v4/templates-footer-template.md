@@ -1,0 +1,3 @@
+# Footer template
+
+TODO
