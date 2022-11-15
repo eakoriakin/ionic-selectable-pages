@@ -1,3 +1,3 @@
-# endSearch()
+# endSearch() method
 
 TODO

@@ -1,3 +1,3 @@
-# enableInfiniteScroll()
+# enableInfiniteScroll() method
 
 TODO

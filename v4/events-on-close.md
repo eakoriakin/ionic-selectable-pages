@@ -1,3 +1,3 @@
-# onClose
+# onClose event
 
 TODO

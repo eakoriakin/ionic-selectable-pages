@@ -1,3 +1,3 @@
-# confirm()
+# confirm() method
 
 TODO

@@ -1,3 +1,3 @@
-# hasInfiniteScroll
+# hasInfiniteScroll field
 
 TODO

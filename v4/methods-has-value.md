@@ -1,3 +1,3 @@
-# hasValue()
+# hasValue() method
 
 TODO

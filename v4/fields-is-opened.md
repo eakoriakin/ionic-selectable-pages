@@ -1,3 +1,3 @@
-# isOpened
+# isOpened field
 
 TODO

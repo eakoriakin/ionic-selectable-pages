@@ -1,3 +1,3 @@
-# close()
+# close() method
 
 TODO

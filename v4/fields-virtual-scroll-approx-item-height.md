@@ -1,3 +1,3 @@
-# virtualScrollApproxItemHeight
+# virtualScrollApproxItemHeight field
 
 TODO

@@ -1,3 +1,3 @@
-# startSearch()
+# startSearch() method
 
 TODO

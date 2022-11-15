@@ -1,3 +1,3 @@
-# hideAddItemTemplate()
+# hideAddItemTemplate() method
 
 TODO

@@ -1,3 +1,3 @@
-# addItem()
+# addItem() method
 
 TODO

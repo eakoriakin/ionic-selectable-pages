@@ -1,3 +1,3 @@
-# disableInfiniteScroll()
+# disableInfiniteScroll() method
 
 TODO

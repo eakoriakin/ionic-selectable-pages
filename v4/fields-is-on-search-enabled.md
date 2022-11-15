@@ -1,3 +1,3 @@
-# isOnSearchEnabled
+# isOnSearchEnabled field
 
 TODO

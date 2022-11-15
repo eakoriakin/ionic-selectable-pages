@@ -1,3 +1,3 @@
-# onAddItem
+# onAddItem event
 
 TODO

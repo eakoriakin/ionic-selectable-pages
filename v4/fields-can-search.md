@@ -1,3 +1,3 @@
-# canSearch
+# canSearch field
 
 TODO

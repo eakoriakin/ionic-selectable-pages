@@ -1,3 +1,3 @@
-# itemsToConfirm
+# itemsToConfirm field
 
 TODO

@@ -1,3 +1,3 @@
-# hasVirtualScroll
+# hasVirtualScroll field
 
 TODO

@@ -1,3 +1,3 @@
-# shouldFocusSearchbar
+# shouldFocusSearchbar field
 
 TODO

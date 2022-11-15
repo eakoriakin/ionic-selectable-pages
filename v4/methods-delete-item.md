@@ -1,3 +1,3 @@
-# deleteItem()
+# deleteItem() method
 
 TODO

@@ -1,3 +1,3 @@
-# endInfiniteScroll()
+# endInfiniteScroll() method
 
 TODO

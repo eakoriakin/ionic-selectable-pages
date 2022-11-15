@@ -1,3 +1,3 @@
-# closeButtonSlot
+# closeButtonSlot field
 
 TODO

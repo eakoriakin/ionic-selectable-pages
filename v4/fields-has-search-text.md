@@ -1,3 +1,3 @@
-# hasSearchText
+# hasSearchText field
 
 TODO

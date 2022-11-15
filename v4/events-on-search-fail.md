@@ -1,3 +1,3 @@
-# onSearchFail
+# onSearchFail event
 
 TODO

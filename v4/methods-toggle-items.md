@@ -1,3 +1,3 @@
-# toggleItems()
+# toggleItems() method
 
 TODO

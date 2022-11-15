@@ -1,3 +1,3 @@
-# onSearch
+# onSearch event
 
 TODO

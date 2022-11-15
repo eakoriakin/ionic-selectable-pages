@@ -1,3 +1,3 @@
-# showAddItemTemplate()
+# showAddItemTemplate() method
 
 TODO

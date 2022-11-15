@@ -1,3 +1,3 @@
-# onDeleteItem
+# onDeleteItem event
 
 TODO

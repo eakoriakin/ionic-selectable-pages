@@ -1,3 +1,3 @@
-# clearButtonText
+# clearButtonText field
 
 TODO

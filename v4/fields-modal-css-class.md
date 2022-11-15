@@ -1,3 +1,3 @@
-# modalCssClass
+# modalCssClass field
 
 TODO

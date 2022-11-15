@@ -1,3 +1,3 @@
-# groupColor
+# groupColor field
 
 TODO

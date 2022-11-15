@@ -1,3 +1,3 @@
-# scrollToBottom()
+# scrollToBottom() method
 
 TODO

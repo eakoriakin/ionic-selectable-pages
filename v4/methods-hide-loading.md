@@ -1,3 +1,3 @@
-# hideLoading()
+# hideLoading() method
 
 TODO
