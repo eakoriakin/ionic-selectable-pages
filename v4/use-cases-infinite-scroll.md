@@ -1,3 +1,3 @@
-# InfiniteScroll
+# Infinite scroll
 
 TODO
