@@ -90,6 +90,6 @@ export class HomePage {
 }
 ```
 
-## 5. Chack out the docs
+## 5. Check out the docs
 
 Take your time to go though the common [use cases](/ionic-selectable-v4/basic-usage), features ([grouping](/ionic-selectable-v4/grouping-items), [editing](/ionic-selectable-v4/editing-adding-editing-and-deleting-items), [templates](/ionic-selectable-v4/add-item-template), [forms](/ionic-selectable-v4/form-control)) and API ([fields](/ionic-selectable-v4/add-button-text-field), [methods](/ionic-selectable-v4/add-item-method), [events](/ionic-selectable-v4/on-add-item-event)) to see what Ionic Selectable is capable of.
