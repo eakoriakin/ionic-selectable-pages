@@ -1,3 +1,3 @@
 # Basic usage
 
-TODO
+A basic example of the component.
