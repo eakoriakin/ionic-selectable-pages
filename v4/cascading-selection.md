@@ -1,3 +1,3 @@
 # Cascading selection
 
-TODO
+Combining components to form a cascading selection.
