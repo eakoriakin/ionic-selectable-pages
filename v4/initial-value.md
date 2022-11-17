@@ -1,3 +1,3 @@
 # Initial value
 
-TODO
+Assigning initial value, single or multiple.
