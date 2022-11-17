@@ -1,3 +1,3 @@
 # Ionic labels
 
-TODO
+Using different kinds of Ionic labels.
