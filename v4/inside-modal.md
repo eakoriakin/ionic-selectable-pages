@@ -1,3 +1,3 @@
 # Inside modal
 
-TODO
+Using the component inside Ionic modal.
