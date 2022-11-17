@@ -1,3 +1,3 @@
 # Firebase
 
-TODO
+Fetching items from Firebase.
