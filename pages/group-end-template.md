@@ -6,7 +6,7 @@ Directive: `ionicSelectableGroupEndTemplate`
 
 A template to render group end.
 
-### Parameters
+## Parameters
 
 `group: { value: any, text?: any, items: any[] }`  
 A group, where `value` is defined by `groupValueField` and `text` is defined by `groupTextField`.
