@@ -1,3 +1,3 @@
 # Adding, editing and deleting items
 
-TODO
+Configuring the component to allow adding, editing and deleting items.
