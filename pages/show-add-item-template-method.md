@@ -1,3 +1,5 @@
 # showAddItemTemplate() method
 
-TODO
+Version added: `3.0.1`, `4.0.0`
+
+Shows `ionicSelectableAddItemTemplate`.
