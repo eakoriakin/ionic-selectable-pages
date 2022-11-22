@@ -1,3 +1,3 @@
 # Min/max selection
 
-TODO
+Implementing min/max validation to restrict the number of selected items.
