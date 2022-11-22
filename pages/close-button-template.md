@@ -4,4 +4,4 @@
 
 Directive: `ionicSelectableCloseButtonTemplate`
 
-A template to overwrite Close button.
+A template to render Close button.

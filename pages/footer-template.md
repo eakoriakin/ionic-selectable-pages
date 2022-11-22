@@ -4,4 +4,4 @@
 
 Directive: `ionicSelectableFooterTemplate`
 
-A template to overwrite the footer. Can be used to change the default footer buttons with the custom ones.
+A template to render the footer. Can be used to overwrite the default footer buttons with the custom ones.
