@@ -4,4 +4,4 @@
 
 Directive: `ionicSelectableHeaderTemplate`
 
-A template to render header.
+A template to render the header.
