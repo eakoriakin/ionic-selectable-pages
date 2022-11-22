@@ -4,4 +4,4 @@
 
 Directive: `ionicSelectableValueTemplate`
 
-A template to render multiple values with trailing ellipsis as an overflow.
+Using value template to display multiple values in a single line with trailing ellipsis as an overflow.

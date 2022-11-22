@@ -4,4 +4,4 @@
 
 Directive: `ionicSelectableValueTemplate`
 
-A template to render multiple values.
+Using value template to display multiple values.
