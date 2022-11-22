@@ -1,3 +1,3 @@
 # Grouping items with virtual scroll
 
-TODO
+Using virtual scroll together with grouped items.
