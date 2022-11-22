@@ -4,7 +4,7 @@
 
 Directive: `ionicSelectableGroupTemplate`
 
-A template to render a group. By default the group name is taken from `groupTextField`. This template allows to overwrite the default behavior and display anything as a group name.
+A template to render a group. By default, the group name is taken from `groupTextField`. This template allows to overwrite the default behavior and display anything as a group name.
 
 ## Parameters
 
