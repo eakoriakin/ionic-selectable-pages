@@ -1,3 +1,3 @@
 # FormArray
 
-Using the component with `FormArray` from Angular Reactive Forms.
+Using the component with Angular\`s `FormArray`.
