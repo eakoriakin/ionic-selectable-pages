@@ -1,6 +1,6 @@
 # Footer template
 
-`Version added: 3.3.0, 4.3.0`
+Version added: `3.3.0`, `4.3.0`
 
 Directive: `ionicSelectableFooterTemplate`
 

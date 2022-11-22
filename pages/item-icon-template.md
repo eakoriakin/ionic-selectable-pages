@@ -1,6 +1,6 @@
 # Item icon template
 
-`Version added: 3.4.0, 4.4.0`
+Version added: `3.4.0`, `4.4.0`
 
 Directive: `ionicSelectableItemIconTemplate`
 
