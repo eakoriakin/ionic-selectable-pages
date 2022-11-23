@@ -43,19 +43,19 @@ There are two ways to tackle it.
 **Async search**
 
 In this case no items are loaded and displayed initially. Items will be added while user is typing to search.  
-See [demo](https://stackblitz.com/edit/ionic-selectable-v4-on-search-event?file=app/pages/home/home.html).
+See [demo](/ionic-selectable/search-items-asynchronously).
 
 **Infinite scroll**
 
 This approach relies on Ionic [InfiniteScroll](https://ionicframework.com/docs/api/components/infinite-scroll/InfiniteScroll/).  
 Initially only the first bunch of items is loaded and displayed, for example we can show only the first 20 items.  
 Then more items is loaded bunch by bunch while user is scrolling down.  
-See [demo](https://stackblitz.com/edit/ionic-selectable-v4-infinite-scroll?file=app/pages/home/home.html).
+See [demo](/ionic-selectable/infinite-scroll).
 
 **Virtual scroll**
 
 This approach relies on Ionic [VirtualScroll](https://ionicframework.com/docs/api/components/virtual-scroll/VirtualScroll/).  
-See [demo](https://stackblitz.com/edit/ionic-selectable-v4-virtual-scroll?file=app/pages/home/home.html).
+See [demo](/ionic-selectable/virtual-scroll).
 
 ## Why the component does not appear and only label is visible?
 
