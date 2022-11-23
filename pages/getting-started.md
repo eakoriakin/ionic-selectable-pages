@@ -12,7 +12,7 @@ npm install ionic-selectable@4 --save
 npm install ionic-selectable@3 --save
 ```
 
-Once you have installed the package you can either jump right to a [source code example with a live demo](/ionic-selectable-v4/basic-usage) or follow the steps below to configure Ionic Selectable module.
+Once you have installed the package you can either jump right to a [source code example with a live demo](/ionic-selectable/basic-usage) or follow the steps below to configure Ionic Selectable module.
 
 ## 2. Import the module
 
@@ -92,4 +92,4 @@ export class HomePage {
 
 ## 5. Check out the docs
 
-Take your time to go though the common [use cases](/ionic-selectable-v4/basic-usage), features ([grouping](/ionic-selectable-v4/grouping-items), [editing](/ionic-selectable-v4/editing-adding-editing-and-deleting-items), [templates](/ionic-selectable-v4/add-item-template), [forms](/ionic-selectable-v4/form-control)) and API ([fields](/ionic-selectable-v4/add-button-text-field), [methods](/ionic-selectable-v4/add-item-method), [events](/ionic-selectable-v4/on-add-item-event)) to see what Ionic Selectable is capable of.
+Take your time to go though the common [use cases](/ionic-selectable/basic-usage), features ([grouping](/ionic-selectable/grouping-items), [editing](/ionic-selectable/editing-adding-editing-and-deleting-items), [templates](/ionic-selectable/add-item-template), [forms](/ionic-selectable/form-control)) and API ([fields](/ionic-selectable/add-button-text-field), [methods](/ionic-selectable/add-item-method), [events](/ionic-selectable/on-add-item-event)) to see what Ionic Selectable is capable of.
