@@ -1,2 +1,3 @@
-# ionic-selectable-docs
-Ionic Selectable Docs.
+# Ionic selectable pages
+
+Ionic Selectable Pages.
