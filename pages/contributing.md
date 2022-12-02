@@ -12,7 +12,7 @@ To contribute just create a pull request and describe the changes.
 1. Update the version in the `package.json` according to [Semantic Versioning](https://semver.org/). For example, if the release contains breaking changes than major number should be bumped and others reset to 0 - from `4.1.6` to `5.0.0`.
 2. Run `gulp` from the root folder to prepare an npm package that will be created in `dist` folder.
 3. Run `npm publish dist` to publish the package to npm.
-4. Create a GitHub tag and describe the changes following the [pattern](https://github.com/ionic-selectable/ionic-selectable/releases/tag/4.2.0).
+4. Create a GitHub tag and describe the changes following the [pattern](https://github.com/eakoriakin/ionic-selectable/releases/tag/4.2.0).
 
 ## Conventions
 

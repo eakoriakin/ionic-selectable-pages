@@ -1,10 +1,10 @@
 {
   "name": "ionic-selectable-pages",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Ionic Selectable pages.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ionic-selectable/ionic-selectable-pages.git"
+    "url": "git+https://github.com/eakoriakin/ionic-selectable-pages.git"
   },
   "keywords": [
     "ionic",
@@ -14,7 +14,7 @@
   "author": "Evgenii Koriakin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ionic-selectable/ionic-selectable-pages/issues"
+    "url": "https://github.com/eakoriakin/ionic-selectable-pages/issues"
   },
-  "homepage": "https://github.com/ionic-selectable/ionic-selectable-pages#readme"
+  "homepage": "https://github.com/eakoriakin/ionic-selectable-pages#readme"
 }

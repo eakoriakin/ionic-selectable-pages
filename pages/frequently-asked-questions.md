@@ -59,7 +59,7 @@ See [demo](/ionic-selectable-docs/virtual-scroll).
 
 ## Why the component does not appear and only label is visible?
 
-Versions from [2.7.0](https://github.com/ionic-selectable/ionic-selectable/releases/tag/2.7.0) to `3.*.*` require Ionic `item-content` attribute.
+Versions from [2.7.0](https://github.com/eakoriakin/ionic-selectable/releases/tag/2.7.0) to `3.*.*` require Ionic `item-content` attribute.
 Version `4.*.*` doesn't need it.
 
 ```
