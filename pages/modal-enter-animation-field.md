@@ -2,7 +2,7 @@
 
 Version added: `3.4.0`, `4.4.0`
 
-Modal enter animation. See [Ionic Modal](https://ionicframework.com/docs/api/modal).
+Modal enter animation. See <a href="https://ionicframework.com/docs/api/modal" target="_blank">Ionic Modal</a>.
 
 ## Type
 

@@ -2,7 +2,7 @@
 
 Version added: `3.0.1`, `4.0.0`
 
-Group color. [Ionic colors](https://ionicframework.com/docs/theming/colors) are supported.
+Group color. <a href="https://ionicframework.com/docs/theming/colors" target="_blank">Ionic colors</a> are supported.
 
 ## Type
 

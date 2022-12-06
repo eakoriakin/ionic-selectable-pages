@@ -2,7 +2,7 @@
 
 Version added: `3.0.1`, `4.0.0`
 
-Header color. [Ionic colors](https://ionicframework.com/docs/theming/colors) are supported.
+Header color. <a href="https://ionicframework.com/docs/theming/colors" target="_blank">Ionic colors</a> are supported.
 
 ## Type
 

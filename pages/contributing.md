@@ -9,10 +9,10 @@ To contribute just create a pull request and describe the changes.
 
 ## Prepare release
 
-1. Update the version in the `package.json` according to [Semantic Versioning](https://semver.org). For example, if the release contains breaking changes than major number should be bumped and others reset to 0 - from `4.1.6` to `5.0.0`.
+1. Update the version in the `package.json` according to <a href="https://semver.org" target="_blank">Semantic Versioning</a>. For example, if the release contains breaking changes than major number should be bumped and others reset to 0 - from `4.1.6` to `5.0.0`.
 2. Run `gulp` from the root folder to prepare an npm package that will be created in `dist` folder.
 3. Run `npm publish dist` to publish the package to npm.
-4. Create a GitHub tag and describe the changes following the [pattern](https://github.com/eakoriakin/ionic-selectable/releases/tag/4.2.0).
+4. Create a GitHub tag and describe the changes following the <a href="https://github.com/eakoriakin/ionic-selectable/releases/tag/4.2.0" target="_blank">pattern</a>.
 
 ## Conventions
 
@@ -26,8 +26,8 @@ To contribute just create a pull request and describe the changes.
 
 ### Formatting
 
-1. Use [Prettier](https://prettier.io) code formatter. Rules are set up in `.prettierrc` file.
-2. Install and use [editorconfig](https://editorconfig.org) extension for your IDE. Rules are set up in `.editorconfig` file.
+1. Use <a href="https://prettier.io" target="_blank">Prettier</a> code formatter. Rules are set up in `.prettierrc` file.
+2. Install and use <a href="https://editorconfig.org" target="_blank">editorconfig</a> extension for your IDE. Rules are set up in `.editorconfig` file.
 
 ### Git
 
