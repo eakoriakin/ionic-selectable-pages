@@ -47,14 +47,14 @@ See [demo](/search-items-asynchronously).
 
 **Infinite scroll**
 
-This approach relies on Ionic [InfiniteScroll](https://ionicframework.com/docs/api/components/infinite-scroll/InfiniteScroll/).  
+This approach relies on Ionic [InfiniteScroll](https://ionicframework.com/docs/api/infinite-scroll).  
 Initially only the first bunch of items is loaded and displayed, for example we can show only the first 20 items.  
 Then more items is loaded bunch by bunch while user is scrolling down.  
 See [demo](/infinite-scroll).
 
 **Virtual scroll**
 
-This approach relies on Ionic [VirtualScroll](https://ionicframework.com/docs/api/components/virtual-scroll/VirtualScroll/).  
+This approach relies on Ionic [VirtualScroll](https://ionicframework.com/docs/api/virtual-scroll).  
 See [demo](/virtual-scroll).
 
 ## Why the component does not appear and only label is visible?
